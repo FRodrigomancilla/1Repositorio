@@ -1,2 +1,2 @@
-# 1Repositorio
-repositorio de prueba 
+Rodrigo Mancilla
+primera prueba
